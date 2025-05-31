@@ -91,7 +91,7 @@ Restaurant-Billing-System/
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
-Contact: [your-email@example.com]  
+**[Himanshu Paswan]**  
+Contact: [himanshupaswan987@gmail.com]  
 Institution: Galgotias University  
 
