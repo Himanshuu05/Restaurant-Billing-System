@@ -29,4 +29,69 @@ A lightweight web-based billing system designed to streamline the order and paym
 ---
 
 ## 📁 Project Structure
+Restaurant-Billing-System/
+├── index.html # Main billing UI
+├── script.js # Handles form logic, bill generation
+├── style.css # Custom styling and animations
+├── bill.ejs # Order summary template (EJS)
+├── background.png # Background image used in CSS
+└── Screenshot.png # UI preview screenshot
+
+---
+
+## 🚀 How to Run the Project
+
+### Option 1: Static Frontend Only
+
+1. Open `index.html` in your web browser.
+2. Start selecting items and generating bills.
+3. Click the **Print Receipt** button to print or save as PDF.
+
+### Option 2: With Backend (EJS Rendering)
+
+1. Make sure Node.js and npm are installed.
+2. Create a basic Express server to render `bill.ejs`.
+3. Pass bill data through routes to render the final summary page.
+
+---
+
+## 💻 Hardware/Software Requirements
+
+- A modern web browser (Chrome, Firefox, Edge)
+- Code editor (e.g., VS Code)
+- Optional: Node.js and Express (for backend integration)
+- Printer (for physical receipts)
+
+---
+
+## 📸 Screenshots
+
+![Screenshot](Screenshot.png)
+
+---
+
+## ✅ Future Improvements
+
+- PDF generation using `html2pdf.js`
+- Order history and database storage
+- Admin dashboard for menu management
+- Login/Authentication system
+
+---
+
+## 📚 References
+
+- [W3Schools](https://www.w3schools.com/)
+- [Bootstrap Docs](https://getbootstrap.com/)
+- [Node.js](https://nodejs.org/)
+- [EJS Documentation](https://ejs.co/)
+- Personal development and testing
+
+---
+
+## 🧑‍💻 Author
+
+**[Your Name]**  
+Contact: [your-email@example.com]  
+Institution: Galgotias University  
 
